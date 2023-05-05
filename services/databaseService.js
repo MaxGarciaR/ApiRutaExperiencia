@@ -42,7 +42,7 @@ const databaseService = () => {
     }
 
     return {
-        crearLenguaje, solicitarInformacion, leerLenguajes, leerNombresSedes, leerNombresCarreras
+       solicitarInformacion, leerNombresSedes, leerNombresCarreras
     }
 };
 module.exports = {
